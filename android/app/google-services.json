@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819091825792",
+    "project_id": "local-sell-and-buy",
+    "storage_bucket": "local-sell-and-buy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819091825792:android:90eb56b1365257effc7265",
+        "android_client_info": {
+          "package_name": "com.example.local_buy_and_sell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ew1nR-LK2EBNtTBXt0F9ncqgw7p-04M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
